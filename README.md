@@ -12,12 +12,12 @@
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
-### I'm a Python Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend Engineer @Turingcom.
-- 🌱 I’m currently expanding my knowledge in DevOps.
+### I'm a Frontend Web Developer, Teacher and Researcher!
+- 🔭 I’m currently working as Frelancer.
+- 🌱 I’m currently expanding my knowledge in Animations of JavaScript .
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 📢 Love to teach and inspire students. Taught over more then 100 students.
+- 🥅 2023-24 Goals: Become a Mern Stack Developer and help my community to grow.
 - 💎 If you are a Tech boy/girl let's get connected  
  
 <h2>Tech Stack</h2>
