@@ -6,8 +6,8 @@
 <a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;HTML+CSS+Developer;Front+End+Web+Developer;Graphic+Designer&center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
-<img align="right" alt="" src="fresh.jpg" width="270" />
+- [MLSA Job Hunting Bootcamp](https://github.com/samsorrahman/samsorrahman1) will started soon.
+<img align="right" alt="" src="Capture.PNG" width="370" />
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
