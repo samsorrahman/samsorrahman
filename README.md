@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Samsor Rahman👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;HTML+CSS+Developer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
+<a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;HTML+CSS+Developer;Front+End+Web+Developer;NLP+Engineer&center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
