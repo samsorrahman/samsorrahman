@@ -6,11 +6,10 @@
 <a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;HTML+CSS+Developer;Front+End+Web+Developer;Graphic+Designer&center=true&width=500&height=50"></a>
 	
  ## Let's Grow Together
-- [MLSA Job Hunting Bootcamp](https://github.com/samsorrahman/samsorrahman1) will started soon.
+- [Frontend Web Developement Job Hunting Bootcamp](https://github.com/samsorrahman/samsorrahman1) will started soon.
 <img align="right" alt="" src="Capture.PNG" width="370" />
 	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
+
 
 ### I'm a Frontend Web Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Frelancer.
@@ -97,8 +96,7 @@
 |-------------|-------------------|---|---| ----|
 | [**My First Repository**](https://github.com/samsorrahman/samsorrahman) | [![GitHub issues](https://img.shields.io/github/issues/samsorrahman/samsorrahman?color=green&logo=github&style=flat)](https://github.com/samsorrahman/samsorrahman/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/samsorrahman/samsorrahman?style=flat&logo=github)](https://github.com/samsorrahman/samsorrahman/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/samsorrahman/samsorrahman?style=flat&color=critical&logo=github)](https://github.com/samsorrahman/samsorrahman/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/samsorrahman/samsorrahman?color=blue&logo=github&style=flat)](https://github.com/samsorrahman/samsorrahman/commits/) |
 | [**Github Profile**](https://github.com/samsorrahman/samsorrahman) | [![GitHub issues](https://img.shields.io/github/issues/samsorrahman/samsorrahman?color=green&logo=github&style=flat)](https://github.com/samsorrahman/samsorrahman/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/samsorrahman/samsorrahman?style=flat&logo=github)](https://github.com/samsorrahman/samsorrahman/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/samsorrahman/samsorrahman?style=flat&color=critical&logo=github)](https://github.com/samsorrahman/samsorrahman/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/samsorrahman/samsorrahman?color=blue&logo=github&style=flat)](https://github.com/samsorrahman/samsorrahman/commits/) |
-| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/commits/)|
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github)](https://github.com/saadfareed/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/commits/) |
+
 
 	
  
