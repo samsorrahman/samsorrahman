@@ -12,6 +12,7 @@
 
 
 ### I'm a Frontend Web Developer, Teacher and Researcher!
+- 🔭 I have got different certification Courses.
 - 🔭 I’m currently working as Frelancer.
 - 🌱 I’m currently expanding my knowledge in Animations of JavaScript .
 - 👯 I’m looking to collaborate with other content creators and developers.
