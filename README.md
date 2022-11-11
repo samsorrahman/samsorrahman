@@ -109,7 +109,7 @@
 
 
 
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
+
 	
  
  <h2>GitHub Analytics
