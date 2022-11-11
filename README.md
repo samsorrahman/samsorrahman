@@ -127,6 +127,16 @@
 </p>
 <br>
 
+
+<br><br>7.  🗣️ **LANGUAGES**<br>
+|LANGUAGE|LEVEL|LINK|
+|-|-|-|
+| Pashto | Professional | N/A |
+| Dari | Professional | N/A |
+| Urdo | Intermediate | N/A |
+| English | Professional |	
+||||
+
 ## 🐛Github Magic Game
 <p align="center">
   <img src="https://github.com/samsorrahman/samsorrahman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -151,15 +161,6 @@
 
 
 
-
-<br><br>7.  🗣️ **LANGUAGES**<br>
-|LANGUAGE|LEVEL|LINK|
-|-|-|-|
-| Pashto | Professional | N/A |
-| Dari | Professional | N/A |
-| Urdo | Intermediate | N/A |
-| English | Professional |	
-||||
 
 
 <br><br>
