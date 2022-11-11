@@ -159,7 +159,6 @@
 | Dari | Professional | N/A |
 | Urdo | Intermediate | N/A |
 | English | Professional |	
-| Spanish | Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/davidkariuki) |
 ||||
 
 
