@@ -154,18 +154,15 @@
   <img src="https://profile-counter.glitch.me/samsorrahman/count.svg" />
 </p>
 
-| [![Samsor Rahman](https://github.com/samsorrahman)](#) | [![Followers](https://github.com/samsorrahman)](#) | [![Stars](https://github.com/samsorrahman)](#) ||
---| --| --| --|
-<!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
-
-
-
-
-
-
 <br><br>
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
+
+
+
+
+
+
 
