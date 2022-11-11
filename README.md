@@ -154,7 +154,7 @@
   <img src="https://profile-counter.glitch.me/samsorrahman/count.svg" />
 </p>
 
-| [![Samsor Rahman](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/b8ede415-6acf-4bd7-af13-5e3ea5742c8a.svg)](https://wakatime.com/@b8ede415-6acf-4bd7-af13-5e3ea5742c8a) |
+| [![Samsor Rahman](https://github.com/samsorrahman)](#) | [![Followers](https://github.com/samsorrahman)](#) | [![Stars](https://github.com/samsorrahman)](#) ||
 --| --| --| --|
 <!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
 
