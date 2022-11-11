@@ -144,7 +144,7 @@
   <img src="https://profile-counter.glitch.me/samsorrahman/count.svg" />
 </p>
 
-| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/b8ede415-6acf-4bd7-af13-5e3ea5742c8a.svg)](https://wakatime.com/@b8ede415-6acf-4bd7-af13-5e3ea5742c8a) |
+| [![Samsor Rahman](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/b8ede415-6acf-4bd7-af13-5e3ea5742c8a.svg)](https://wakatime.com/@b8ede415-6acf-4bd7-af13-5e3ea5742c8a) |
 --| --| --| --|
 <!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
 
@@ -155,8 +155,10 @@
 <br><br>7.  🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|LINK|
 |-|-|-|
-| English | Professional | N/A |
-| Swahili | Professional | N/A |
+| Pashto | Professional | N/A |
+| Dari | Professional | N/A |
+| Urdo | Intermediate | N/A |
+| English | Professional |	
 | Spanish | Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/davidkariuki) |
 ||||
 
