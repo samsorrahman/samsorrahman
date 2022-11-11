@@ -34,7 +34,9 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
 
-
+    <td align='center' width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+    </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
     </td>
@@ -95,7 +97,7 @@
 
 
 
-[![@samsorrahman's Holopin board](https://holopin.io/api/user/board?user=samsorrahman)](https://holopin.io/@samsorrahman)
+[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
 	
  
  <h2>GitHub Analytics
