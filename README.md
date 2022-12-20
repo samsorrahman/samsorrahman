@@ -149,6 +149,16 @@
 | English | Professional |	
 ||||
 
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#26](https://github.com/samsorrahman/csstox/pull/26) in [samsorrahman/csstox](https://github.com/samsorrahman/csstox)
+2. 🎉 Merged PR [#25](https://github.com/samsorrahman/csstox/pull/25) in [samsorrahman/csstox](https://github.com/samsorrahman/csstox)
+3. 🎉 Merged PR [#27](https://github.com/samsorrahman/csstox/pull/27) in [samsorrahman/csstox](https://github.com/samsorrahman/csstox)
+4. 🎉 Merged PR [#28](https://github.com/samsorrahman/csstox/pull/28) in [samsorrahman/csstox](https://github.com/samsorrahman/csstox)
+5. 🎉 Merged PR [#29](https://github.com/samsorrahman/csstox/pull/29) in [samsorrahman/csstox](https://github.com/samsorrahman/csstox)
+<!--END_SECTION:activity-->
+
+
 ## 🐛Github Magic Game
 <p align="center">
   <img src="https://github.com/samsorrahman/samsorrahman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
