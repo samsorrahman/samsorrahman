@@ -25,13 +25,14 @@
 - 🥅 2023-24 Goals: Full Stack Developer | 1000+ Programing Practice | Becoming Ambassador | Lead | Expert
 - 💎 If you are a Tech boy/girl let's get connected  
 
-
 <p align="center">
-  <a href="http://twitter.com/samsor_rahman">
-  </a>
-  <a href="http://instagram.com/samsorrahman?sub_confirmation=1">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/samsor-4381b0233/"><img src="https://img.shields.io/badge/-Samsor%20Rahman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rahmansamsor82@gmail.com"><img src="https://img.shields.io/badge/-samsor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/samsor_rahman/"><img src="https://img.shields.io/badge/-@samsorrahman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/samsorrahman/"><img src="https://img.shields.io/badge/-/samsorrahman-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://twitter.com/samsor_rahman/"><img src="https://img.shields.io/badge/-/samsor_rahman-e8b519?style=flat&logo=twitter&logoColor=black"/></a>
+ </p>
+
  
 <h2>Tech Stack</h2>
 
@@ -96,12 +97,7 @@
     
 </table>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/samsor-4381b0233/"><img src="https://img.shields.io/badge/-Samsor%20Rahman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rahmansamsor82@gmail.com"><img src="https://img.shields.io/badge/-samsor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/samsor_rahman/"><img src="https://img.shields.io/badge/-@samsorrahman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/samsorrahman/"><img src="https://img.shields.io/badge/-/samsorrahman-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
- </p>
+
  
 <br>
 
