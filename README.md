@@ -22,12 +22,12 @@
 - 🌱 I’m currently expanding my knowledge in Animations of JavaScript .
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
-- 🥅 2023-24 Goals: Become a Mern Stack Developer and help my community to grow.
+- 🥅 2023-24 Goals: Full Stack Developer | 1000+ Programing Practice | Becoming Ambassador | Lead | Expert
 - 💎 If you are a Tech boy/girl let's get connected  
 
 
 <p align="center">
-  <a href="http://twitter.com/eddiejaoude">
+  <a href="http://twitter.com/samsor_rahman">
     <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
   </a>
   <a href="https://discord.com/invite/jZQs6Wu">
