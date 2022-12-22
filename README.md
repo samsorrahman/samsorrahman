@@ -11,8 +11,7 @@
 - [Frontend Web Developement Job Hunting Bootcamp](https://github.com/samsorrahman/samsorrahman1) will started soon.
 
 
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
 
 	
 
@@ -25,6 +24,19 @@
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
 - 🥅 2023-24 Goals: Become a Mern Stack Developer and help my community to grow.
 - 💎 If you are a Tech boy/girl let's get connected  
+
+
+<p align="center">
+  <a href="http://twitter.com/eddiejaoude">
+    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+  </a>
+  <a href="https://discord.com/invite/jZQs6Wu">
+    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" alt="EddieHub Discord"/>
+  </a>
+  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Eddie Jaoude's YouTube channel"/>
+  </a>
+</p>
  
 <h2>Tech Stack</h2>
 
