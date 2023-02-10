@@ -7,7 +7,7 @@ on:
   # push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
