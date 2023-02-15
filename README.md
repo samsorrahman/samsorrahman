@@ -26,7 +26,7 @@
 - 💎 If you are a Tech boy/girl let's get connected  
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/-Samsor%20Rahman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samsor-rahman"><img src="https://img.shields.io/badge/-Samsor%20Rahman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rahmansamsor82@gmail.com"><img src="https://img.shields.io/badge/-samsor@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/samsor_rahman/"><img src="https://img.shields.io/badge/-@samsorrahman-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/samsor/"><img src="https://img.shields.io/badge/-/samsorrahman-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
