@@ -52,7 +52,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100">
     </td>
 
-	 
+	 <td align='center' width="200">
+        <img src="https://github.com/samsorrahman/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
+    </td>
+
+		
 	
 
 		
