@@ -74,10 +74,7 @@
         <img src="https://github.com/samsorrahman/devicon/blob/master/icons/github/github-original-wordmark.svg" width="100">
     </td>
 	
-		 <td align='center' width="200">
-        <img src="https://github.com/samsorrahman/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
-    </td>
-
+	
 	
 </tr>	
 	
@@ -110,7 +107,14 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU" width="80">
     </td>
 </tr>
-    
+    <tr>
+	    	 <td align='center' width="200">
+        <img src="https://github.com/samsorrahman/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
+    </td>
+
+	    
+	</tr>
+	
 </table>
 </p>
 
