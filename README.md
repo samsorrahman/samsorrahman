@@ -19,8 +19,8 @@
 ### I'm a Frontend Web Developer, Teacher and Researcher!
 - 🔭 I have got different certification Courses.
 - 🔭 I’m currently working as Frelancer.
-- 🌱 I’m currently expanding my knowledge in Animations of JavaScript .
-- 👯 I’m looking to collaborate with other content creators and developers.
+-🌱 I’m currently learning everything 🤓
+-🤝 I’m looking for help with finding projects to contribute to!
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
 - 🥅 2023-24 Goals: Full Stack Developer | 1000+ Programing Practice | Becoming Ambassador | Lead | Expert
 - 💎 If you are a Tech boy/girl let's get connected  
