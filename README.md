@@ -53,9 +53,6 @@
     </td>
 
 	  </td>
-	 <td align='center' width="200">
-        <img src="https://github.com/samsorrahman/devicon/blob/master/icons/github/github-original-wordmark.svg" width="100">
-    </td>
 	
 
 		
@@ -71,6 +68,11 @@
      <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
     </td>
+	
+ <td align='center' width="200">
+        <img src="https://github.com/samsorrahman/devicon/blob/master/icons/github/github-original-wordmark.svg" width="100">
+    </td>
+	
 </tr>	
 	
 	
