@@ -1,5 +1,5 @@
 
-![logo](https://github.com/samsorrahman/samsorrahman/blob/main/github%20banner.png)
+![logo](https://github.com/samsorrahman/samsorrahman/blob/main/github%20Banner.png)
 <body>
   <div align="center">
     <h1> Hi there, I'm Samsor Rahman👋<a href="#"></h1>
