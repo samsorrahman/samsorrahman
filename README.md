@@ -21,6 +21,7 @@
 - 🔭 I’m currently working as Frelancer.
 -🌱 I’m currently learning everything 🤓
 -🤝 I’m looking for help with finding projects to contribute to!
+-💬 Ask me about open source, web development, and Node.js
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
 - 🥅 2023-24 Goals: Full Stack Developer | 1000+ Programing Practice | Becoming Ambassador | Lead | Expert
 - 💎 If you are a Tech boy/girl let's get connected  
