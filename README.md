@@ -53,7 +53,7 @@
 
 
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100">
     </td>
 
 </tr>
