@@ -52,7 +52,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100">
     </td>
 
-	  </td>
+	 
 	
 
 		
