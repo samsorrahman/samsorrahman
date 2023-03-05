@@ -199,6 +199,9 @@
   <img src="https://profile-counter.glitch.me/samsorrahman/count.svg" />
 </p>
 
+## 🐛My Latest Blogs
+<p align="left">
+<a href="https://sammaji.hashnode.dev//vite-the-fast-simple-and-efficient-build-tool-for-web-developers" title="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677410821617/44177c26-8010-4cee-800a-466390c86d83.png" alt="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers" width="250px" align="left" /></a>
 <br><br>
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
