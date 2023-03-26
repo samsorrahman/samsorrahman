@@ -40,16 +40,14 @@
 <table width="100">
 	<tr>
     <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40">
     </td>
 
-	
-
  	<td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="30">
     	</td>
 	 <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50">
     </td>
 
 	</tr>
