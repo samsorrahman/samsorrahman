@@ -5,7 +5,7 @@
     <h1> Hi there, I'm Samsor Rahman👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;HTML+CSS+Developer;Front+End+Web+Developer;Backend+Development;Graphic+Designer&center=true&width=500&height=50"></a>
+<a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;HTML+CSS+Developer;Front+End+Web+Developer;Backend+Development+Python+Django;&center=true&width=500&height=50"></a>
 	
  ## Let's Grow Together
 - [Frontend Web Developement Job Hunting Bootcamp](https://github.com/samsorrahman/samsorrahman1) will started soon.
