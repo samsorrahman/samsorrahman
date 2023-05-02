@@ -61,18 +61,18 @@
     <td align='center'>
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'>
+    </td> -->
+<!--     <td align='center'>
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
-    </td>
-    <td align='center'>
+    </td> -->
+<!--     <td align='center'>
         <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
-    </td>
-    <td align='center'>
+    </td> -->
+<!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
+    </td> -->
 </tr>
 <tr>
     <td align='center'>
@@ -87,9 +87,9 @@
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
+    </td> -->
 </tr>
 <tr>
     <td align='center'>
@@ -112,15 +112,15 @@
     <td align='center'>
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
-    </td>
-    <td align='center'>
+    </td> -->
+<!--     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
-    </td>
-    <td align='center'>
+    </td> -->
+<!--     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
-    </td>
+    </td> -->
     <td align='center'>
         <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
     </td>
