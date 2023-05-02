@@ -37,72 +37,13 @@
  
 <h2>Tech Stack</h2>
 
-<table width="100">
-	<tr>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40">
-    </td>
 
-	</tr>
-		
-
-
-	
-<tr>
-
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-    </td>
-     <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
-    </td>
-	
- <td align='center' width="200">
-        <img src="https://github.com/samsorrahman/devicon/blob/master/icons/github/github-original-wordmark.svg" width="100">
-    </td>
-	
-	
-	
-</tr>	
-	
-	
- 
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-    </td>
- <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
-    </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td>
 
 
  
 
   
-   
 
-  <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tQ6ZxMVlObIH08ozYIuAgzbirwoLN5gPPcbd94BLkA72Bvv0gBXSxNrOCaNGHAaoG14&usqp=CAU" width="80">
-    </td>
-</tr>
-    <tr>
-	    	 <td align='center' width="200">
-        <img src="https://github.com/samsorrahman/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
-    </td>
-
-	    
-	</tr>
-	
-</table>
 
 
  
