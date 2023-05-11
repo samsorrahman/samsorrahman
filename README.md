@@ -16,7 +16,7 @@
 	
 
 
-### I'm a Frontend Web Developer, Teacher and Researcher!
+### I'm a Python Django Developer, Teacher and Researcher!
 - 🔭 I have got different certification Courses.
 - 🔭 I’m currently working as Frelancer.
 -🌱 I’m currently learning everything 🤓
