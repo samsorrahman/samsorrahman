@@ -131,15 +131,15 @@
     <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
-    </td>
+    </td> -->
     <td align='center'>
         <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
-    </td>
+    </td> -->
 </tr>
     
 </table>
