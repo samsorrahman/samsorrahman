@@ -98,9 +98,9 @@
     <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
-    </td>
+    </td> -->
 <!--     <td align='center'>
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td> -->
