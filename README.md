@@ -102,9 +102,7 @@
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
     </td>
 
-    <td align='center'>
-        <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
-    </td>
+
 </tr>
 <tr>
     <td align='center'>
