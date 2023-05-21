@@ -241,7 +241,8 @@
 <br>
 	
 # I love open-source
-https://img1.niftyimages.com/ufph/wlmr/m_9i?name=Samsor%20Rahman
+
+<a href="" title="I Love Open Source"><img src="https://img1.niftyimages.com/ufph/wlmr/m_9i?name=Samsor%20Rahman" alt="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers" width="250px" align="left" /></a>
 
 
 
