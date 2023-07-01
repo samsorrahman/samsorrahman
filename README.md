@@ -65,11 +65,11 @@
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask Logo">
 </td>
 <td align="center" width="190">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="Jinja Logo">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="">
 </td>
 
 <td align="center" width="190">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman Logo">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="">
 </td>
 <!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
