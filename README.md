@@ -67,6 +67,10 @@
 <td align="center" width="190">
   <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="Jinja Logo">
 </td>
+
+<td align="center" width="190">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman Logo">
+</td>
 <!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td> -->
