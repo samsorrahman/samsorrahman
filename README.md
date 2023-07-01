@@ -60,6 +60,13 @@
     <td align='center'>
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
     </td>
+
+<td align="center" width="190">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask Logo">
+</td>
+<td align="center" width="190">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="Jinja Logo">
+</td>
 <!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td> -->
