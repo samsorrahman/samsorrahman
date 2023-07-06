@@ -65,8 +65,9 @@
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask Logo">
 </td>
 <td align='center'>
-    <img src="https://download.logo.wine/logo/Jinja/Jinja-Logo.wine.png" alt="Jinja Logo">
+    <img src=" alt="Jinja Logo">
 </td>
+
 
 
 
