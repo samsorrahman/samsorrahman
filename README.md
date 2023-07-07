@@ -213,11 +213,11 @@
 
 
 <br><br>7.  🗣️ **LANGUAGES**<br>
-|LANGUAGE|LEVEL|LINK|
+|LANGUAGE|LEVEL|
 |-|-|-|
-| Pashto | Professional | N/A |
-| Dari | Professional | N/A |
-| Urdo | Intermediate | N/A |
+| Pashto | Professional |
+| Dari | Professional | 
+| Urdo | Intermediate |
 | English | Professional |	
 ||||
 
