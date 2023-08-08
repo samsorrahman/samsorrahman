@@ -255,6 +255,12 @@
 
 
 
+<br>
 
 
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
