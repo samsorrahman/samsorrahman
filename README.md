@@ -5,7 +5,7 @@
     <h1> Hi there, I'm Samsor Rahman👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;Open + Fellow;Backend+Developer;Backend+Developer+Python+Django;&center=true&width=500&height=50"></a>
+<a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;Backend+Developer;Backend+Developer+Python+Django;&center=true&width=500&height=50"></a>
 	
  ## Let's Grow Together
 - [Backend with Samsor](https://github.com/samsorrahman/samsorrahman1) will started soon.
