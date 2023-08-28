@@ -77,9 +77,9 @@
 <!--     <td align='center'>
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td> -->
-<!--     <td align='center'>
+  <td align='center'>
         <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
-    </td> -->
+    </td> 
 <!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td> -->
