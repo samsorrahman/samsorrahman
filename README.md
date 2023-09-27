@@ -8,7 +8,7 @@
 <a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;Backend+Developer;Backend+Developer+Python+Django;&center=true&width=500&height=50"></a>
 	
  ## Let's Grow Together
-- [Backend with Samsor](https://github.com/samsorrahman/samsorrahman1) will started soon.
+- [50 Days DevOps Challenge](https://medium.com/@samsorrahman/start-your-devops-journey-50-days-devops-challenge-74eec395b15b) 
 
 
 
@@ -18,10 +18,9 @@
 
 ### I'm a Python Django Developer, Teacher, and Researcher!
 - 🔭 I’m currently working as a freelancer.
--🌱 I’m currently learning Backend Engineering
+-🌱 I’m currently enhancing DevOps skills 
 -🤝 I’m looking for help with finding projects to contribute to!
--💬 Ask me about open source, web development, React, and community building.
-- 📢 Love to teach and inspire students. Taught more than 100 students.
+-💬 Ask me about open source, Backend Development | Infrastructure | DevOps | React | Community Building.
 - 🥅 2023-24 Goals: Full Stack Developer | 300+ Programing Practice | Becoming Ambassador | Lead | Expert
 - 💎 let's get connected
 
