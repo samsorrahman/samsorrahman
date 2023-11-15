@@ -8,7 +8,9 @@
 <a href="https://github.com/samsorrahman"><img src="https://readme-typing-svg.herokuapp.com?lines=JavaScript+Developer;Backend+Developer;Backend+Developer+Python+Django;&center=true&width=500&height=50"></a>
 	
  ## Let's Grow Together
-- [50 Days DevOps Challenge](https://medium.com/@samsorrahman/start-your-devops-journey-50-days-devops-challenge-74eec395b15b) 
+- [DevOps Blogs](https://medium.com/@samsorrahman/start-your-devops-journey-50-days-devops-challenge-74eec395b15b)
+- [DevOps Free Resources](https://github.com/samsorrahman/Learn-DevOps-from-zero-to-hero)
+
 
 
 
