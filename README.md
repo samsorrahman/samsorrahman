@@ -59,34 +59,8 @@
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
 </tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
-    </td>
-
-<td align="center" width="190">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask Logo">
-</td>
-<td align='center'>
-    <img src=" alt="Jinja Logo">
-</td>
 
 
-
-
-<!--     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td> -->
-<!--     <td align='center'>
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
-    </td> -->
-  <td align='center'>
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
-    </td> 
-<!--     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td> -->
-</tr>
 <tr>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
@@ -97,8 +71,8 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" height="80">
     </td>
  <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
@@ -124,36 +98,36 @@
     <td align='center'>
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
-<!--     <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
-    </td> -->
-<!--     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png">
-    </td> -->
-<!--     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/1200px-RabbitMQ_logo.svg.png">
-    </td> -->
     <td align='center'>
-        <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
+        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+    </td>
+    <td align='center'>
+        <img src="https://logodix.com/logo/1686380.png" width="60" height="60">
+    </td>
+    <td align='center'>
+        <img src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" width="60" height="60">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="80">
     </td>
 </tr>
 
 <tr>
     <td align='center'>
-        <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
+        <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png">
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
-<!--     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
-    </td> -->
     <td align='center'>
-        <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
+        <img src="https://cloudnesil.com/wp-content/uploads/2019/05/serverless.png">
     </td>
-<!--     <td align='center'>
+    <td align='center'>
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="80" width="90" >
+    </td>
+    <td align='center'>
         <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
-    </td> -->
+    </td>
 </tr>
     
 </table>
