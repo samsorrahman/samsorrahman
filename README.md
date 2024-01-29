@@ -20,12 +20,33 @@
 
 ### I'm a Python Django Developer, Teacher, and Researcher!
 - 🔭 I’m currently working as a freelancer.
--🌱 I’m currently enhancing DevOps skills 
+-🌱 I’m currently enhancing my DevOps skills 
 -🤝 I’m looking for help with finding projects to contribute to!
 -💬 Ask me about open source, Backend Development | Infrastructure | DevOps | React | Community Building.
-- 🥅 2023-24 Goals: Full Stack Developer | 300+ Programing Practice | Becoming Ambassador | Lead | Expert
+- 🥅 2024 Goals: Helping Individuals to master DevOps Tools 
 - 💎 let's get connected
 
+### Learning DevOps in #90DaysOfDevOps
+
+As part of my ongoing journey, I'm dedicated to learning DevOps through #90DaysOfDevOps. Currently, I'm focused on mastering the following skills:
+
+- 🐚 Linux Shell Scripting
+- 🐍 Python
+- 🐳 Docker
+- 🛠️ Jenkins
+- ☸️ Kubernetes
+- 🌐 Terraform
+- 📊 Grafana
+- ⚙️ Ansible
+
+
+Feel free to connect with me if you'd like to discuss DevOps practices or collaborate on related projects.
+
+### Contact Me
+
+- 📧 Email: samsorrahman20@gmail.com
+- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samsor-rahman18/)
+- 📝 GitHub: [GitHub Profile](https://github.com/samsorrahman)
 
 
 
