@@ -193,7 +193,7 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 
 	
 	
-## ⚡️Github Contributions
+## ⚡️GitHub Contributions
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
@@ -203,7 +203,7 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 </p>
 
 
-## 🚀Github Metrics
+## 🚀GitHub Metrics
 
 <p align="center">
 	<img width="625em" src="https://github.com/samsorrahman/samsorrahman/blob/main/github-metrics.svg" />
@@ -222,7 +222,7 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 
 
 
-## 🐛Github Magic Game
+## 🐛GitHub Magic Game
 
 <p align="center">
   <img src="https://github.com/samsorrahman/samsorrahman/raw/output/github-contribution-grid-snake.svg" alt="snake">
