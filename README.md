@@ -46,7 +46,7 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 
 - 📧 Email: samsorrahman20@gmail.com
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samsor-rahman18/)
-- 📝 GitHub: [GitHub Profile](https://github.com/samsorrahman)
+- 📝 Medium: [Medium Profile](https://medium.com/@samsorrahman)
 
 
 
