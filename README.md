@@ -18,7 +18,7 @@
 	
 
 
-### I'm a Python Django Developer, Teacher, and Researcher!
+### I'm a DevOps Engineer, Teacher, and Researcher!
 - 🔭 I’m currently working as a freelancer.
 -🌱 I’m currently enhancing my DevOps skills 
 -🤝 I’m looking for help with finding projects to contribute to!
@@ -26,9 +26,9 @@
 - 🥅 2024 Goals: Helping Individuals to master DevOps Tools 
 - 💎 let's get connected
 
-### Learning DevOps in #90DaysOfDevOps
+### Currently Mastering Kubernetes & Terraform/Ansible Automation
 
-As part of my ongoing journey, I'm dedicated to learning DevOps through #90DaysOfDevOps. Currently, I'm focused on mastering the following skills:
+ASK ME IN
 
 - 🐚 Linux Shell Scripting
 - 🐍 Python
@@ -216,8 +216,9 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 |----------|---------------|
 | Pashto   | Professional  |
 | Dari     | Professional  |
-| Urdu     | Intermediate |
 | English  | Professional  |
+| Urdu     | Intermediate |
+
 
 
 
