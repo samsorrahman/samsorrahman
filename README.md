@@ -19,12 +19,13 @@
 
 
 ### I'm a DevOps Engineer, Teacher, and Researcher!
-- 🔭 I’m currently working as a freelancer.
--🌱 I’m currently enhancing my DevOps skills 
--🤝 I’m looking for help with finding projects to contribute to!
--💬 Ask me about open source, Backend Development | Infrastructure | DevOps | React | Community Building.
-- 🥅 2024 Goals: Helping Individuals to master DevOps Tools 
-- 💎 let's get connected
+- I’m currently working as a freelancer.
+- I’m currently enhancing my DevOps skills 
+- I’m looking for help with finding projects to contribute to!
+- Ask me about open source, Backend Development | Infrastructure | DevOps | React | Community Building.
+- 2024 Goals: Helping Individuals to master DevOps Tools 
+- let's get connected
+- Fun Fact: I love eating 
 
 ### Currently Mastering Kubernetes & Terraform/Ansible Automation
 
