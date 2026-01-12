@@ -48,6 +48,7 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 - 📧 Email: samsorrahman20@gmail.com
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samsor-rahman18/)
 - 📝 Medium: [Medium Profile](https://medium.com/@samsorrahman)
+- 📧 Credly: [Certifications](https://www.credly.com/users/samsor-rahman)
 
 
 
@@ -212,15 +213,6 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
 	
 
 
-<br><br>7.  🗣️ **LANGUAGES**<br>
-| Language | Level         |
-|----------|---------------|
-| Pashto   | Professional  |
-| Dari     | Professional  |
-| English  | Professional  |
-| Urdu     | Intermediate |
-
-
 
 
 
@@ -244,24 +236,34 @@ Feel free to connect with me if you'd like to discuss DevOps practices or collab
   <img src="https://profile-counter.glitch.me/samsorrahman/count.svg" />
 </p>
 
-## 🐛My Latest Blogs
-<p align="left">
-<a href="https://samsor.hashnode.dev/" title="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677410821617/44177c26-8010-4cee-800a-466390c86d83.png" alt="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers" width="250px" align="left" /></a>
-<br><br>
 <br>
+
+<br>
+
+## 🎓 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/77184594-c1a7-4408-a152-641c5957c28c/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/a07c83d4-c6f9-4028-99c7-86cc0e46851c/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/KCNA-Kubernetes%20Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KCNA"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/d7f98ee6-087d-4166-ae8c-05cb16cab769/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/KCSA-Kubernetes%20Security-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KCSA"/>
+  </a>
+</p>
+
+
 	
 ### ✍️ Quote (Refresh for more)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-	
-# I love open-source
-
-<a href="https://img1.niftyimages.com/ufph/wlmr/m_9i?name=Samsor%20Rahman" title="I Love Open Source"><img src="https://img1.niftyimages.com/ufph/wlmr/m_9i?name=Samsor%20Rahman" alt="Vite: The Fast, Simple, and Efficient Build Tool for Web Developers" width="600px" align="left" /></a>
 
 
 
 
-<br>
 
 
